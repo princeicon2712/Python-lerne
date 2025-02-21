@@ -1,5 +1,18 @@
 # Python-lerne
 
+
+##  যে কোনো স্থানে কোনো কিছু টাইপ করে নেওয়া।
+
+nid=str(input(" what is the number :-- ")
+
+dob=int(input(" what is the day:-) 
+
+
+
+
+
+
+
 ## কত গুলো sma  সেন্ট করতে পারবো।
 
 
