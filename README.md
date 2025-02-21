@@ -44,6 +44,8 @@ elif opt==2:
 	
 elif opt==3:
 	os.system("python3 3.py")
+ 
 else:
-		print("[x] wrong valo inter")
+
+print("[x] wrong valo inter")
   
