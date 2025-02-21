@@ -13,7 +13,7 @@ dob=int(input(" what is the day:-)
 
 
 
-## কত গুলো sma  সেন্ট করতে পারবো।
+## কত গুলো sms সেন্ট করতে পারবো।
 
 
 10=str(input(" WHAT is the amaunt")
