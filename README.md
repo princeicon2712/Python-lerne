@@ -7,7 +7,12 @@ nid=str(input(" what is the number :-- ")
 
 dob=int(input(" what is the day:-) 
 
+How to ----- ---- 
+       ----- ----- 
 
+       print(45*"-")
+
+       
 
 
 
