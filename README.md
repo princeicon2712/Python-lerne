@@ -98,7 +98,9 @@ Would you like to add date validation (e.g., handling February 30, leap years)?
 
 
 
+## wifi ddos
 
+https://github.com/flashnuke/wifi-deauth
 
 
 
